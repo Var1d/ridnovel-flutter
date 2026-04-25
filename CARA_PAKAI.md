@@ -1,4 +1,4 @@
-# 📖 CARA PAKAI - RidNovel Full Project
+# 📖 CARA PAKAI - RidNovel Project
 **Farid Dhiya Fairuz — 247006111058 — B**
 
 ---
@@ -97,7 +97,7 @@ flutter pub get
 
 ### 4a. Buka Android Studio
 ### 4b. Buka project ridnovel (folder Flutter)
-### 4c. Buka Device Manager → Start emulator Pixel_7a
+### 4c. Buka Device Manager → Start emulator Pixel_4
 ### 4d. Tunggu emulator boot sampai muncul home screen Android
 ### 4e. Klik tombol ▶ Run (hijau) di toolbar atas
 
